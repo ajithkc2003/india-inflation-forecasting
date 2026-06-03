@@ -228,3 +228,5 @@ Potential extensions of this work include:
 ## Conclusion
 
 This project demonstrates how combining classical econometric techniques with modern machine learning approaches can improve inflation forecasting accuracy. While machine learning models captured complex non-linear patterns, the ARIMAX model achieved the best balance between predictive performance and economic interpretability. The resulting framework provides valuable insights for policymakers, researchers, and economic analysts seeking reliable inflation forecasts for India.
+ ## Project Report
+ ![Nmap Scan](link-to-image)
